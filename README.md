@@ -13,7 +13,7 @@ vedio Demo :
 
 screenshots:
 
-![](screenshots/1.png)
+![](Demo Screens/1.png)
 
 
 ![](screenshots/2.png)
